@@ -24,4 +24,6 @@
 </div>
  
  <h1>Meus Projetos:</h1>
- <a href="https://alexandrepedrorocha.github.io/pokedex/index.html" target="_blank"></a>
+ <div>
+ <a href="https://alexandrepedrorocha.github.io/pokedex/index.html" target="_blank">Pokedex</a>
+ </div>
